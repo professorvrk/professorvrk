@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @professorvrk
-- 👀 I’m interested in teaching marketing analytics
-- 🌱 I’m currently learning python
+- 👀 I’m interested in doing research and teaching
+- 🌱 I’m currently learning social network analysis using deep learning
 - 💞️ I’m looking to collaborate on research about social media data
 - 📫 How to reach me raj@iimj.ac.in
 
